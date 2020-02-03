@@ -1,0 +1,10 @@
+[settings]
+debug = true
+db_account = rpcoh_dbmanager
+db_secretkey = 11qqaazz!!
+
+[db]
+db_name = myapp_dev
+db_d_host = localhost
+db_r_host = 107.170.216.212
+db_port = 27017
